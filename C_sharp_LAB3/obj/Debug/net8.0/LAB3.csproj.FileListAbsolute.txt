@@ -1,0 +1,14 @@
+C:\Users\matti\Desktop\PO_laby\C_sharp\LAB3\bin\Debug\net8.0\LAB3.exe
+C:\Users\matti\Desktop\PO_laby\C_sharp\LAB3\bin\Debug\net8.0\LAB3.deps.json
+C:\Users\matti\Desktop\PO_laby\C_sharp\LAB3\bin\Debug\net8.0\LAB3.runtimeconfig.json
+C:\Users\matti\Desktop\PO_laby\C_sharp\LAB3\bin\Debug\net8.0\LAB3.dll
+C:\Users\matti\Desktop\PO_laby\C_sharp\LAB3\bin\Debug\net8.0\LAB3.pdb
+C:\Users\matti\Desktop\PO_laby\C_sharp\LAB3\obj\Debug\net8.0\LAB3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matti\Desktop\PO_laby\C_sharp\LAB3\obj\Debug\net8.0\LAB3.AssemblyInfoInputs.cache
+C:\Users\matti\Desktop\PO_laby\C_sharp\LAB3\obj\Debug\net8.0\LAB3.AssemblyInfo.cs
+C:\Users\matti\Desktop\PO_laby\C_sharp\LAB3\obj\Debug\net8.0\LAB3.csproj.CoreCompileInputs.cache
+C:\Users\matti\Desktop\PO_laby\C_sharp\LAB3\obj\Debug\net8.0\LAB3.dll
+C:\Users\matti\Desktop\PO_laby\C_sharp\LAB3\obj\Debug\net8.0\refint\LAB3.dll
+C:\Users\matti\Desktop\PO_laby\C_sharp\LAB3\obj\Debug\net8.0\LAB3.pdb
+C:\Users\matti\Desktop\PO_laby\C_sharp\LAB3\obj\Debug\net8.0\LAB3.genruntimeconfig.cache
+C:\Users\matti\Desktop\PO_laby\C_sharp\LAB3\obj\Debug\net8.0\ref\LAB3.dll
